@@ -1,4 +1,4 @@
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "https://chhavishrivastava.com/blog/"
 title: Chhavi Shrivastava
 paginate: 3
 theme: PaperMod
@@ -10,6 +10,8 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 # googleAnalytics: UA-123-45
+
+canonifyurls: true
 
 minify:
     disableXML: true
