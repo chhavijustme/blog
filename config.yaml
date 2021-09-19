@@ -1,0 +1,82 @@
+baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+title: Chhavi Shrivastava
+paginate: 3
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 1
+                - name: Tags
+                  url: tags/
+                  weight: 2
+                - name: Series
+                  url: series/
+                  weight: 3
+                - name: Search
+                  url: search/
+                  weight: 4
+                - name: About
+                  url: about-me/
+                  weight: 5
+
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Personal Blog"
+    author: Chhavi
+
+    defaultTheme: auto
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    images: ["papermod-cover.png"]
+
+    homeInfoParams:
+        Title: "Hi there 👋 "
+        Content: >
+            I am Chhavi. I am a Product Designer at Bumble.🐝  My alter ego would be Carrie Bradshaw working in tech and living in London. I write about design, life, and travel. The cliche, sorry.
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/_chhavii_"
+        - name: instagram
+          url: "https://www.instagram.com/justchhaviii/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/chhavishrivastava/"
+
+taxonomies:
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
