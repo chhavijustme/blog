@@ -4,7 +4,7 @@ description: Why Barcelona? How Barcelona? Really?
 date: '2021-04-08T09:07:04.767Z'
 categories: []
 keywords: []
-tags: ["Moving Abroad"]
+tags: ["Moving Abroad", "Barcelona Life"]
 slug: /@chhavii/moving-abroad-part-2-living-and-working-in-barcelona-25d07809d0d3
 ---
 

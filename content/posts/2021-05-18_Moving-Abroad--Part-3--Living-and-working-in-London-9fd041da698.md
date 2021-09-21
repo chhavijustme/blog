@@ -6,7 +6,7 @@ description: >-
 date: '2021-05-18T19:11:33.043Z'
 categories: []
 keywords: []
-tags: ["Moving Abroad"]
+tags: ["Moving Abroad", "London Life"]
 slug: /@chhavii/moving-abroad-part-3-living-and-working-in-london-9fd041da698
 ---
 

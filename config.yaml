@@ -25,19 +25,16 @@ languages:
             main:
                 - name: Archive
                   url: archives
-                  weight: 1
+                  weight: 2
                 - name: Tags
                   url: tags/
-                  weight: 2
-                - name: Series
-                  url: series/
                   weight: 3
                 - name: Search
                   url: search/
                   weight: 4
                 - name: About
                   url: about-me/
-                  weight: 5
+                  weight: 1
 
 
 
