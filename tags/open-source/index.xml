@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Chhavi Shrivastava</title>
+    <link>https://chhavishrivastava.com/blog/tags/open-source/</link>
+    <description>Recent content in Open Source on Chhavi Shrivastava</description>
+    <image>
+      <url>https://chhavishrivastava.com/blog/papermod-cover.png</url>
+      <link>https://chhavishrivastava.com/blog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Feb 2019 18:58:29 +0000</lastBuildDate><atom:link href="https://chhavishrivastava.com/blog/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source, Design, and Life Lessons</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/open-source-design-and-life-lessons-abd43afb93c0/</link>
+      <pubDate>Tue, 19 Feb 2019 18:58:29 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/open-source-design-and-life-lessons-abd43afb93c0/</guid>
+      <description>A compilation of blogs</description>
+    </item>
+    
+    <item>
+      <title>An actionable checklist to being a Google Summer of Code student</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/an-actionable-checklist-to-being-a-google-summer-of-code-student-47ca97e521f3/</link>
+      <pubDate>Tue, 11 Dec 2018 10:48:41 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/an-actionable-checklist-to-being-a-google-summer-of-code-student-47ca97e521f3/</guid>
+      <description>What and how to — start contributing to Open Source, write a proposal and be part of GSoC!</description>
+    </item>
+    
+    <item>
+      <title>How Open Source and Bollywood are similar? (And how it can help you get started with Open Source)</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/how-open-source-and-bollywood-are-similar-and-how-it-can-help-you-get-started-with-open-source-ca24921de9d4/</link>
+      <pubDate>Mon, 29 Jan 2018 03:51:30 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/how-open-source-and-bollywood-are-similar-and-how-it-can-help-you-get-started-with-open-source-ca24921de9d4/</guid>
+      <description>Need that one extra inch of motivation to start contributing? This might help.</description>
+    </item>
+    
+    <item>
+      <title>Beginner’s Guide to Music MetaData. Part 1.</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/beginners-guide-to-music-metadata-part-1-2afd514faa04/</link>
+      <pubDate>Wed, 15 Nov 2017 05:46:42 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/beginners-guide-to-music-metadata-part-1-2afd514faa04/</guid>
+      <description>If you missed the MusicBrainz party back then, you are probably lost when they say “We love our entities”. Read on to know why.</description>
+    </item>
+    
+    <item>
+      <title>Starting conversations about FOSS.(Event Report of Fedora Women Day, IIT Guwahati)</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/starting-conversations-about-foss-event-report-of-fedora-women-day-iit-guwahati-19d4a3d0141e/</link>
+      <pubDate>Mon, 18 Sep 2017 06:02:21 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/starting-conversations-about-foss-event-report-of-fedora-women-day-iit-guwahati-19d4a3d0141e/</guid>
+      <description>Notes about how we are trying to build a FOSS community at IIT Guwahati.</description>
+    </item>
+    
+    <item>
+      <title>Building a more Inclusive Open Source Community at Fedora.</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/building-a-more-inclusive-open-source-community-at-fedora-15dad220efba/</link>
+      <pubDate>Wed, 06 Sep 2017 09:24:16 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/building-a-more-inclusive-open-source-community-at-fedora-15dad220efba/</guid>
+      <description>About the Fedora Diversity Team and what we were upto this Flock 2017 held at Cape Cod, USA</description>
+    </item>
+    
+  </channel>
+</rss>

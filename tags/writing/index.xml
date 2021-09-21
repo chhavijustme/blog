@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Chhavi Shrivastava</title>
+    <link>https://chhavishrivastava.com/blog/tags/writing/</link>
+    <description>Recent content in Writing on Chhavi Shrivastava</description>
+    <image>
+      <url>https://chhavishrivastava.com/blog/papermod-cover.png</url>
+      <link>https://chhavishrivastava.com/blog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Dec 2016 08:47:29 +0000</lastBuildDate><atom:link href="https://chhavishrivastava.com/blog/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving my first and only blog to Medium</title>
+      <link>https://chhavishrivastava.com/blog/posts/chhavii/importing-my-blog-to-medium-8233cbbbea9e/</link>
+      <pubDate>Wed, 14 Dec 2016 08:47:29 +0000</pubDate>
+      
+      <guid>https://chhavishrivastava.com/blog/posts/chhavii/importing-my-blog-to-medium-8233cbbbea9e/</guid>
+      <description>Okay. I confess I have been delaying this blog for long. All the shiz about “change is the only constant thing”, “change is good”, “blah”…</description>
+    </item>
+    
+  </channel>
+</rss>
