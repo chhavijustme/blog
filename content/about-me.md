@@ -1,158 +1,50 @@
 ---
 author: "Chhavi"
-title: "About me"
-date: "2019-03-11"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+title: "Hi there - I'm Chhavi.👋"
+date: "2020-09-21"
+description: "A bit about me"
 aliases: ["migrate-from-jekyl"]
-# ShowToc: true
+# ShowToc: false
 TocOpen: true
 searchHidden: true
 weight: 5
 
 ---
 
-Testing twice!!!
+Somewhere in between the pandemic, I moved to London, for my dream job at Bumble. Right now, I am working on how can we make the chat experience on our app safe and equitable for all, especially women.
 
-:see_no_evil:
+Of course, sometimes I cannot shut up about building digital products, feminism, inclusive design, and random facts about dating apps. Or about how we should read what we like, not we should.
+
+All credits to my mom for making me such a reader, and making me join French classes in high school. This ultimately led to my  firm resolve to move abroad for a while. After completing my bachelor's in design from IIT Guwahati, I worked in Bangalore at Nutanix and then moved to Barcelona to work in one of the fastest-growing startups in Europe, N26. All professional titles so far have included the term designer in it.
+
+I have always liked writing, and still do more than ever. I usually write about my life experiences, design, and things I learn at work. I hope you find my writings non-preachy and relatable. :see_no_evil:
 
 <!--more-->
 
-## Headings
+## FAQ
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+### Is this your portfolio website?
+No. Like every designer, I have a few webflow drafts and it is a work in progress. If you are looking to hire me, portfolio available on request.
 
-# H1
 
-## H2
+### Can you get me free Bumble Premium?
+Sadly no. I will let you know if this changes though.👀
 
-### H3
+### How did you get a job abroad?
+I wrote a complete blog series covering why I moved, how I searched for jobs, how was my experience, and tips and tricks. You can read it [here](https://medium.com/moving-abroad-for-a-job/moving-abroad-my-new-blog-series-1ceb2cb2875e).
 
-#### H4
+### I am just starting out/moving to design. What courses/books will you recommend?
+I would love to write a blog on this, and will very soon. Meanwhile, Femke has curated an [amazing list](https://www.femke.design/resources), do check it out.
 
-##### H5
+### Can we jump on a quick call?
+Like my friend Candi said on Twitter, I am all jumped out. Sorry. 
 
-###### H6
+If you have a question, I would have most likely written about it. I plan to do regular QnAs on [my page](https://www.instagram.com/justchhaviii/) and try to answer most of my DMs. I would love to chat and get to know each other. It's just that I need to keep my mental health first and stay away from screens when I can. Hope you understand.💛
 
-## Paragraph
+If you are looking for personalized advice, I will soon build that into my calendar. Check this space later.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+### What's the best way to reach you?
+Right now, really enjoying my time on the gram. So drop me a DM on [Instagram](https://www.instagram.com/justchhaviii/), or [LinkedIn](https://www.linkedin.com/in/chhavishrivastava/) if it's work-related.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.
->
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-#### Gist
-
-{{< gist spf13 7896402 >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
--   List item
--   Another item
--   And another item
-
-#### Nested list
-
--   Fruit
-    -   Apple
-    -   Orange
-    -   Banana
--   Dairy
-    -   Milk
-    -   Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+### What's next?
+Mostly writing, and designing, and writing about writing and designing.
