@@ -4,7 +4,7 @@ description: Back stronger than ever
 date: '2021-03-28T12:19:12.375Z'
 categories: []
 keywords: []
-tags: ["Life", "Humor"]
+tags: ["Humor"]
 slug: /@chhavii/the-return-of-fomo-639dc4c8b0ae
 ---
 

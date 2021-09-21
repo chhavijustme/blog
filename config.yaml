@@ -1,6 +1,6 @@
 baseURL: "https://chhavishrivastava.com/blog/"
 title: Chhavi Shrivastava
-paginate: 3
+paginate: 6
 theme: PaperMod
 
 enableInlineShortcodes: true
