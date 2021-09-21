@@ -4,6 +4,7 @@ description: ETA? Make that DTA. Definite Time of Arrival.
 date: '2017-08-20T13:04:46.926Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/10-oh-im-waitin-i-m-waitin-i-m-waitin-18e49dad685
 ---
 

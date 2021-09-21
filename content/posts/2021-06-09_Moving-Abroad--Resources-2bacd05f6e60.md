@@ -4,6 +4,7 @@ description: A list of resources and links helpful for looking a job abroad
 date: '2021-06-09T08:17:34.722Z'
 categories: []
 keywords: []
+tags: ["Moving Abroad"]
 slug: /@chhavii/moving-abroad-resources-2bacd05f6e60
 ---
 

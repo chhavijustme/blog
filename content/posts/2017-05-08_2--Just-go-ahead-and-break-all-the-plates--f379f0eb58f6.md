@@ -6,6 +6,7 @@ description: >-
 date: '2017-05-08T06:43:02.220Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/2-just-go-ahead-and-break-all-the-plates-f379f0eb58f6
 ---
 

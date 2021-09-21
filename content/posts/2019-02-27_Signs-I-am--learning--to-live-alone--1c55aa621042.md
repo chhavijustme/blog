@@ -4,6 +4,7 @@ description: Subtle as a gunshot.
 date: '2019-02-27T13:00:09.022Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/signs-i-am-learning-to-live-alone-1c55aa621042
 ---
 

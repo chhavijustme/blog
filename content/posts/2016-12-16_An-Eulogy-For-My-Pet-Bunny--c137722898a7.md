@@ -6,6 +6,7 @@ description: >-
 date: '2016-12-16T08:25:13.498Z'
 categories: []
 keywords: []
+tags: ["Love"]
 slug: /@chhavii/an-eulogy-for-my-pet-bunny-c137722898a7
 ---
 

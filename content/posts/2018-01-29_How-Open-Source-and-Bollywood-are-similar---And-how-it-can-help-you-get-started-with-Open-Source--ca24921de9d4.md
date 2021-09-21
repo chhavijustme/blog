@@ -6,6 +6,7 @@ description: Need that one extra inch of motivation to start contributing? This 
 date: '2018-01-29T03:51:30.826Z'
 categories: []
 keywords: []
+tags: ["Open Source"]
 slug: >-
   /@chhavii/how-open-source-and-bollywood-are-similar-and-how-it-can-help-you-get-started-with-open-source-ca24921de9d4
 ---

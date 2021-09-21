@@ -8,6 +8,7 @@ description: >-
 date: '2017-10-20T14:50:50.226Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/13-about-what-they-dont-tell-you-about-wearing-a-saree-and-it-s-correlation-with-life-825f5445fe3f
 ---

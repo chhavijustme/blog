@@ -4,6 +4,7 @@ description: 'Paying it forward, and writing down everything that I learned.'
 date: '2021-03-23T09:23:17.055Z'
 categories: []
 keywords: []
+tags: ["Moving Abroad"]
 slug: /@chhavii/moving-abroad-part-1-tips-for-job-hunting-2b6b862c1ed7
 ---
 

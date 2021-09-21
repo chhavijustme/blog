@@ -4,6 +4,7 @@ description: The amusing ordeal of finding flat and flatmates in Bangalore.
 date: '2018-10-30T10:11:20.707Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/i-am-interested-in-living-with-you-are-you-2b9aed481562
 ---
 

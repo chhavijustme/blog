@@ -6,6 +6,7 @@ description: >-
 date: '2019-01-13T14:50:00.911Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/oh-hello-i-found-you-at-the-supermarket-7dafc8e2f5c3
 ---
 

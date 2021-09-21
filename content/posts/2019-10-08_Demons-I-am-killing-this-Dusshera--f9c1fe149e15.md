@@ -4,6 +4,7 @@ description: 'About a label maker, my very own discount coupon, and 12+7.'
 date: '2019-10-08T16:37:00.239Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/demons-i-am-killing-this-dusshera-f9c1fe149e15
 ---
 

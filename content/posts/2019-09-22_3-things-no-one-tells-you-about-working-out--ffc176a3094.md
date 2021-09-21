@@ -4,6 +4,7 @@ description: '..which are good to know, even if you don’t work out.'
 date: '2019-09-22T14:14:08.094Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/3-things-no-one-tells-you-about-working-out-ffc176a3094
 ---
 

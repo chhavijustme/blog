@@ -6,6 +6,7 @@ description: >-
 date: '2016-09-05T18:10:28.696Z'
 categories: []
 keywords: []
+tags: ["College Life", "Design"]
 slug: >-
   /@chhavii/a-couple-of-first-timers-venture-out-in-the-design-world-9b0d5f6edcf8
 ---

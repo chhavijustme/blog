@@ -6,6 +6,7 @@ description: >-
 date: '2017-09-06T09:24:16.794Z'
 categories: []
 keywords: []
+tags: ["Open Source"]
 slug: >-
   /@chhavii/building-a-more-inclusive-open-source-community-at-fedora-15dad220efba
 ---

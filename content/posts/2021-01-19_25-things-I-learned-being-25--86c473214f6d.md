@@ -4,6 +4,7 @@ description: the 25th element in periodic table is manganese
 date: '2021-01-19T16:59:42.278Z'
 categories: []
 keywords: []
+tags: ["Birthday Series", "Learnings"]
 slug: /@chhavii/25-things-i-learned-being-25-86c473214f6d
 ---
 

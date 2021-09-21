@@ -6,6 +6,7 @@ description: >-
 date: '2018-01-04T08:24:17.549Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/17-about-the-final-semester-to-do-list-fd0e4d8d88a4
 ---
 

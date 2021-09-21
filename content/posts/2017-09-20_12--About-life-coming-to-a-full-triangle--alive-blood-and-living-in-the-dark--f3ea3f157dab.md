@@ -4,6 +4,7 @@ description: 'Okay not life, just my internship.'
 date: '2017-09-20T12:38:38.808Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/12-about-life-coming-to-a-full-triangle-alive-blood-and-living-in-the-dark-f3ea3f157dab
 ---

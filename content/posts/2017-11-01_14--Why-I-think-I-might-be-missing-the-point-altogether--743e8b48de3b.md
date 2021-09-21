@@ -6,6 +6,7 @@ description: >-
 date: '2017-11-01T15:07:36.730Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/14-why-i-think-i-might-be-missing-the-point-altogether-743e8b48de3b
 ---
 

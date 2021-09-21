@@ -4,6 +4,7 @@ description: 'How to navigate the change of managers, especially as a junior!'
 date: '2021-05-25T16:31:08.739Z'
 categories: []
 keywords: []
+tags: ["Work Hacks"]
 slug: /@chhavii/halp-my-manager-is-leaving-me-746a31abb275
 ---
 

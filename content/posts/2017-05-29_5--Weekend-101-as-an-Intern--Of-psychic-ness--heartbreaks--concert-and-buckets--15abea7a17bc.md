@@ -8,6 +8,7 @@ description: >-
 date: '2017-05-29T16:20:14.283Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/5-weekend-101-as-an-intern-of-psychic-ness-heartbreaks-concert-and-buckets-15abea7a17bc
 ---

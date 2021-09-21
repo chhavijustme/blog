@@ -4,6 +4,7 @@ description: Making our product sound a bit more human.
 date: '2019-10-03T12:10:40.166Z'
 categories: []
 keywords: []
+tags: ["Design Case Studies"]
 slug: /@chhavii/building-ux-writing-guidelines-for-enterprise-design-76c0e800a65e
 ---
 

@@ -6,6 +6,7 @@ description: >-
 date: '2018-12-11T10:48:41.955Z'
 categories: []
 keywords: []
+tags: ["Open Source"]
 slug: >-
   /@chhavii/an-actionable-checklist-to-being-a-google-summer-of-code-student-47ca97e521f3
 ---

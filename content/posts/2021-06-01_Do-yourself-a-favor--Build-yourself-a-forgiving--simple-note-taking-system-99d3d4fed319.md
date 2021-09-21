@@ -4,6 +4,7 @@ description: 'How I built an easy, ongoing system to document my work life daily
 date: '2021-06-01T18:20:46.562Z'
 categories: []
 keywords: []
+tags: ["Work Hacks"]
 slug: >-
   /@chhavii/do-yourself-a-favor-build-yourself-a-forgiving-simple-note-taking-system-99d3d4fed319
 ---

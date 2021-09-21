@@ -4,6 +4,7 @@ description: Redesign your reading sessions on Medium.
 date: '2019-02-22T06:49:58.203Z'
 categories: []
 keywords: []
+tags: ["Social Media"]
 slug: /@chhavii/who-do-i-follow-on-medium-f1549c5ceff6
 ---
 

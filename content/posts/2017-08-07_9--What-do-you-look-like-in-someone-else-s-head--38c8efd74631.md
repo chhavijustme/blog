@@ -4,6 +4,7 @@ description: '(All about mental models, courtesy social media!)'
 date: '2017-08-07T12:44:42.101Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/9-what-do-you-look-like-in-someone-elses-head-38c8efd74631
 ---
 

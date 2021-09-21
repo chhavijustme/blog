@@ -6,6 +6,7 @@ description: >-
 date: '2018-02-06T13:56:01.568Z'
 categories: []
 keywords: []
+tags: ["College Life", "Humor"]
 slug: /@chhavii/gosh-why-did-i-wear-high-heels-this-alcheringa-de9d71e2031b
 ---
 

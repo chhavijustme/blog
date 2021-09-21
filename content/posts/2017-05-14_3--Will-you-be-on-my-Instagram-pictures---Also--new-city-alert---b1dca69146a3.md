@@ -6,6 +6,7 @@ description: >-
 date: '2017-05-14T14:11:24.732Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/3-will-you-be-on-my-instagram-pictures-also-new-city-alert-b1dca69146a3
 ---

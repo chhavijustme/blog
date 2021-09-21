@@ -4,6 +4,7 @@ description: 'A 5 minutes revision for you on how-to-pitch, with doodles.'
 date: '2019-02-03T13:35:42.039Z'
 categories: []
 keywords: []
+tags: ["Work Hacks"]
 slug: >-
   /@chhavii/when-was-the-last-time-you-brushed-your-presentation-skills-53a86008d8f9
 ---

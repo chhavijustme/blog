@@ -4,6 +4,7 @@ description: A compilation of blogs
 date: '2019-02-19T18:58:29.043Z'
 categories: []
 keywords: []
+tags: ["Open Source"]
 slug: /@chhavii/open-source-design-and-life-lessons-abd43afb93c0
 ---
 

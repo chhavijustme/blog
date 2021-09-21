@@ -6,6 +6,7 @@ description: >-
 date: '2018-01-20T07:42:37.116Z'
 categories: []
 keywords: []
+tags: ["Birthday Series","Learnings"]
 slug: /@chhavii/22-things-i-learned-being-22-a27c9838fc8
 ---
 

@@ -4,6 +4,7 @@ description: Some things I wish I had known.
 date: '2021-06-15T12:44:15.914Z'
 categories: []
 keywords: []
+tags: ["Moving Abroad"]
 slug: /@chhavii/moving-abroad-things-we-should-talk-about-more-8c422c3d9f61
 ---
 

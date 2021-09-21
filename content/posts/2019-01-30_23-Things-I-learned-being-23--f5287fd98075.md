@@ -6,6 +6,7 @@ description: >-
 date: '2019-01-30T16:43:48.597Z'
 categories: []
 keywords: []
+tags: ["Birthday Series", "Learnings"]
 slug: /@chhavii/23-things-i-learned-being-23-f5287fd98075
 ---
 

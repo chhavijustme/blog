@@ -4,6 +4,7 @@ description: 'Well, I moved to Barcelona from India a bit before the pandemic.'
 date: '2020-11-17T10:30:32.351Z'
 categories: []
 keywords: []
+tags: ["Moving Abroad", "Learnings"]
 slug: /@chhavii/things-i-learned-on-moving-abroad-aaca99cd1b65
 ---
 

@@ -6,6 +6,7 @@ description: >-
 date: '2016-06-09T04:50:03.435Z'
 categories: []
 keywords: []
+tags: ["Design", "Learnings"]
 slug: >-
   /@chhavii/learnings-of-a-first-timer-as-a-design-intern-in-the-industry-99e172aa37cb
 ---

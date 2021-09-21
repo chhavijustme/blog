@@ -4,6 +4,7 @@ description: 'Spoiler alert: Not your typical Instagrammy travel blog.'
 date: '2019-10-21T14:37:21.499Z'
 categories: []
 keywords: []
+tags: ["Travel"]
 slug: /@chhavii/how-to-visit-auroville-some-tips-9c884c3b6351
 ---
 

@@ -4,6 +4,7 @@ description: Khokha ki chai. Guest house wali road. Manikanta ki biryani.
 date: '2018-05-05T07:21:24.580Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/100-reasons-we-will-always-miss-iit-guwahati-829af3d9082f
 ---
 

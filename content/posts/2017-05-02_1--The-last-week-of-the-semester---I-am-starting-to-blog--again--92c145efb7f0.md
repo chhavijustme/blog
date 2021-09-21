@@ -6,6 +6,7 @@ description: >-
 date: '2017-05-02T15:49:40.372Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/1-the-last-week-of-the-semester-i-am-starting-to-blog-again-92c145efb7f0
 ---

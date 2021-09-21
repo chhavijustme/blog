@@ -6,6 +6,7 @@ description: >-
 date: '2017-05-21T16:44:11.912Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/4-buy-my-thoughts-instead-first-week-as-an-intern-in-the-city-db7b1184def8
 ---

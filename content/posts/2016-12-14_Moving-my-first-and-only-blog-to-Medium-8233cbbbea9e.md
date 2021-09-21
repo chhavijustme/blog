@@ -6,6 +6,7 @@ description: >-
 date: '2016-12-14T08:47:29.935Z'
 categories: []
 keywords: []
+tags: ["Writing"]
 slug: /@chhavii/importing-my-blog-to-medium-8233cbbbea9e
 ---
 

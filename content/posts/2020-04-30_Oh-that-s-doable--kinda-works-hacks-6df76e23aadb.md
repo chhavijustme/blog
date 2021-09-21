@@ -6,6 +6,7 @@ description: >-
 date: '2020-04-30T09:48:18.454Z'
 categories: []
 keywords: []
+tags: ["Barcelona Life"]
 slug: /@chhavii/oh-thats-doable-kinda-works-hacks-6df76e23aadb
 ---
 

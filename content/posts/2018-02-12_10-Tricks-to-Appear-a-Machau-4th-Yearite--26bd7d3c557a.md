@@ -4,6 +4,7 @@ description: Sarcasm may or may not be intended. Humor definitely intended.
 date: '2018-02-12T11:47:22.358Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/10-tricks-to-appear-a-machau-4th-yearite-26bd7d3c557a
 ---
 

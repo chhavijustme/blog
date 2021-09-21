@@ -5,6 +5,7 @@ date: '2020-04-02T17:35:14.534Z'
 categories: []
 keywords: []
 slug: /@chhavii/24-things-i-learned-being-24-cb42b92bd08b
+tags: ["Birthday Series", "Learnings"]
 ---
 
 I learned that..

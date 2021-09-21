@@ -4,6 +4,7 @@ description: Falling in love with a new city during lockdown
 date: '2020-11-17T10:59:59.331Z'
 categories: []
 keywords: []
+tags: ["Travel", "Barcelona Life"]
 slug: /@chhavii/a-love-letter-to-barcelona-82d06e849909
 ---
 

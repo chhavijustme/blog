@@ -4,6 +4,7 @@ description: 'For all that have made me me, and me. Thank you.'
 date: '2016-02-03T09:35:00.000Z'
 categories: []
 keywords: []
+tags: ["Love"]
 slug: /@chhavii/the-love-of-my-life-16b58f58b61
 ---
 

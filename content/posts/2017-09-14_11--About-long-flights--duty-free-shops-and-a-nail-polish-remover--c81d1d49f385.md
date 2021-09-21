@@ -4,6 +4,7 @@ description: 'All about me traveling to the USA. :)'
 date: '2017-09-14T15:02:36.197Z'
 categories: []
 keywords: []
+tags: ["College Life", "Travel"]
 slug: >-
   /@chhavii/11-about-long-flights-duty-free-shops-and-a-nail-polish-remover-c81d1d49f385
 ---

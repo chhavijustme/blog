@@ -6,6 +6,7 @@ description: >-
 date: '2016-10-28T14:17:57.668Z'
 categories: []
 keywords: []
+tags: ["Design"]
 slug: >-
   /@chhavii/learning-ux-design-with-interaction-design-foundation-review-d98015d347b7
 ---

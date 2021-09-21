@@ -8,6 +8,7 @@ description: >-
 date: '2017-11-26T14:39:00.986Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: >-
   /@chhavii/15-time-to-test-drive-the-new-year-resolutions-or-is-it-too-soon-for-that-shiz-38833b5d8b24
 ---

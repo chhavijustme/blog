@@ -6,6 +6,7 @@ description: >-
 date: '2021-06-09T08:37:02.682Z'
 categories: []
 keywords: []
+tags: ["Moving Abroad"]
 slug: /@chhavii/moving-abroad-for-a-job-is-now-a-publication-4e094b7749b5
 ---
 

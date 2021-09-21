@@ -6,6 +6,7 @@ description: Notes about how we are trying to build a FOSS community at IIT Guwa
 date: '2017-09-18T06:02:21.565Z'
 categories: []
 keywords: []
+tags: ["College Life", "Open source"]
 slug: >-
   /@chhavii/starting-conversations-about-foss-event-report-of-fedora-women-day-iit-guwahati-19d4a3d0141e
 ---

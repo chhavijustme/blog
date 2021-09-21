@@ -6,6 +6,7 @@ description: >-
 date: '2017-12-22T15:10:48.571Z'
 categories: []
 keywords: []
+tags: ["College Life"]
 slug: /@chhavii/16-about-letting-go-i-am-talking-about-haircuts-d946534ea626
 ---
 

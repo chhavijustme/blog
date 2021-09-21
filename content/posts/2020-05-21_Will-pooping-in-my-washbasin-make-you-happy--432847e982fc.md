@@ -4,6 +4,7 @@ description: Weird conversations in times of a pandemic. Of course to a cat!
 date: '2020-05-21T15:51:28.431Z'
 categories: []
 keywords: []
+tags: ["Barcelona Life", "Humor"]
 slug: /@chhavii/will-pooping-in-my-washbasin-make-you-happy-432847e982fc
 ---
 

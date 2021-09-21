@@ -6,6 +6,7 @@ description: >-
 date: '2018-11-03T16:44:37.963Z'
 categories: []
 keywords: []
+tags: ["Humor"]
 slug: /@chhavii/the-adventurous-journey-of-buying-milk-powder-7f14e73739c1
 ---
 

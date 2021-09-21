@@ -4,6 +4,7 @@ description: How a day feels like in the life of a (very privileged) millennial
 date: '2020-05-14T15:30:03.859Z'
 categories: []
 keywords: []
+tags: ["Barcelona Life", "Humor"]
 slug: /@chhavii/quarantinama-74d05311dee
 ---
 
